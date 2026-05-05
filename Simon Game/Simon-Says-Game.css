@@ -10,4 +10,24 @@
   border:10px solid black;
 }
 
-.
+.green{
+  background-color:green;
+}
+
+.red{
+  background-color:red;
+}
+
+.yellow{
+  background-color:yellow;
+}
+
+.blue{
+  background-color:blue;
+}
+
+.Main-box{
+  display:flex;
+  justify-content:center;
+  align-item:center
+}
